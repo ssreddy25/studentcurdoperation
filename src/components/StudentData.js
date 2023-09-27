@@ -71,7 +71,9 @@ const  StudentData = ()=>{
              }
          
         </tbody>
+        <button className="w-23 h-10 bg-black m-2 py-2 text-white rounded-lg"><Link to="/addstudent">Add Student</Link></button>
       </table>
+    
       </div>
     )
 }
